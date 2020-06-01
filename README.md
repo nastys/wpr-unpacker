@@ -8,6 +8,7 @@ Any existing files will be overwritten.
 ```
 
 License: MIT
+
 License (Qt libraries): GNU LGPL v3
 
 Uses zlib by Jean-loup Gailly and Mark Adler.
